@@ -2,7 +2,7 @@
 
 /**
  * _strcpy - coppies string
- * @dest; destination
+ * @dest: destination
  * @src: source
  * Return: dest
  */
